@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Sans sprite](https://static.tvtropes.org/pmwiki/pub/images/sans_sprite.jpg)
