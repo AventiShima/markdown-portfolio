@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am just a *completely average guy* who likes to play **video games** and **listen to the Japanese Language**.
